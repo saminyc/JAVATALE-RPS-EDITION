@@ -6,7 +6,7 @@ It prompts the user to input either 'r' for rock, 'p' for paper, or 's' for scis
 The computer randomly chooses one of these options. 
 The program then compares the user's choice with the computer's choice, and outputs the result of the game accordingly. It checks if the choices are the same, in which case it's a tie. Otherwise, it checks who chose rock, paper, or scissors and declares the winner accordingly. 
 
-If the user inputs an invalid character, the program will display an error message and prompt the user to input a valid choice.
+If the user inputs an invalid character, the program will display an error message and exit.
 
 To run the program, clone this repository and run the Main class in a Java environment.
 
